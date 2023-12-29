@@ -8,14 +8,14 @@ gitpython
 hachoir
 heroku3
 motor
-pillow=9.5.0
+pillow==9.5.0
 psutil
 py-tgcalls==0.9.7
 pykeyboard
 pyrogram==2.0.106
 python-dotenv
 pyyaml
-requests=5.3.1
+requests==5.3.1
 speedtest-cli
 spotipy
 tgcrypto
